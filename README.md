@@ -14,4 +14,4 @@ This is an ongoing project. Therefore, although the 3D Printing files (.STL) sho
 
   Additionally, although there are drawing files for every part, only pertinent dimensions are given. As stated on every drawing, all dimensions are for reference and part fabrication shall be performed according strictly to the solid models. If any discrepancies occur, the solid model shall be assumed to be correct.
 
-  For more information or any questions, please contact me through the form located at the bottom of my [website](www.MasonVB.com).
+  For more information or any questions, please contact me through the form located at the bottom of my website: www.MasonVB.com.
