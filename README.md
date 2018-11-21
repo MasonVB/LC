@@ -1,5 +1,5 @@
 ## DESIGN AND CONTROL OF A HIGH PRECISION LASER CUTTING MACHINE
-  This repository includes all files files related to the reproduction of a high precision laser cutting machine. This machine is the topic of paper IMECE2018-88131 from the ASME 2018 International Mechanical Engineering Congress and Exposition, November 9-15, 2018, Salt Lake City, Utah, USA
+  This repository includes all files files related to the reproduction of a high precision laser cutting machine. This machine is the topic of paper IMECE2018-88131 from the ASME 2018 International Mechanical Engineering Congress and Exposition, November 9-15, 2018, Pittsburgh, Pennsylvania, USA
 
   This repository is divided into three sections: the SolidWorks model, the .STL files used by 3D printers, and the drawings for each of the parts. 
 
